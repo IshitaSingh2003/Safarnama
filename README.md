@@ -1,1 +1,2 @@
 # Safarnama
+Safarnama means "travelogue", the idea of documenting one's travel experiences. To make traveling an experience of relaxation rather than planning and budgeting, this website suggests different travel plans based on user input, using data analysis and machine learning algorithms to analyze user preferences and suggest in-detail, relevant travel plans that even include destinations, modes of transport, hotels, budget, social media post ideas, and even local friends you can make, making your travel location feel like a home away from home. 
