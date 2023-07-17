@@ -1,4 +1,3 @@
-Certainly! Here's an updated version with relevant emojis added:
 
 ## Safarnama - Your Personal Travel Planner 🌍✈️📝
 
